@@ -44,7 +44,7 @@ Save and wait a few minutes
 
 The site will be live at:
 
-https://USERNAME.github.io/website
+https://doaaelomda.github.io/website/
 
 
 Replace USERNAME with your GitHub username.
